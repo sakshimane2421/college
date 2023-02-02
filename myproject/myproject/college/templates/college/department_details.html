@@ -1,0 +1,90 @@
+{% extends 'base.html' %}
+
+{% block maincontent %} 
+<div class="container">
+	<div class="row">
+		<div class="col-md-12 text-center">
+			<h1>{{department_details.name}}</h1>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+		{{department_details.description}}
+		</div>
+	</div>
+	<div class="col-md-12 text-center">
+			<p class="text-primary"><h4>Laboratory</h4></p>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<table class="table table-bordered , table-sm, table-striped" >
+				<tr>
+					<th>sr.</th>
+					<th>Name of Laboratory</th>
+				</tr>
+				{% for obj in laboratories %}
+					<tr>
+						<td>{{ forloop.counter }}
+						</td>
+						<td>{{ obj.lab_name }}
+						</td>
+					</tr>
+				{% endfor %}
+			</table>
+		</div>
+	</div>
+	<div class="col-md-12 text-center">
+			<h4>Faculty & Staff Details</h4>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<table class="table table-bordered , table-striped">
+				<tr>
+					<th>sr.</th>
+					<th>Name of Faculty </th>
+					<th>Designation</th>
+				</tr>
+				{% for obj in faculties %}
+					<tr>
+						<td>{{ forloop.counter }}
+						</td>
+						<td>{{ obj.Name_of_Faculty}}
+						</td>
+						<td>{{ obj.Designation}}
+						</td>
+					</tr>
+				{% endfor %}
+			</table>
+		</div>
+	</div>
+	<div class="col-md-12 text-center">
+			<p class="text-primary"><h4>Visiting Faculty</h4></p>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<table class="table table-bordered , table-striped">
+				<tr>
+					<th>sr.</th>
+					<th>Name of visiting faculty</th>
+					<th>Designation</th>
+				</tr>
+				{% for obj in visiting_faculties %}
+					<tr>
+						<td>{{ forloop.counter }}
+						</td>
+						<td>{{ obj.Name_of_Faculty }}
+						</td>
+						<td>{{ obj.Designation}}
+						</td>
+					</tr>
+				{% endfor %}
+			</table>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+{% endblock %}

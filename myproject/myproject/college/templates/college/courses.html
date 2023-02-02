@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block maincontent %}
+<!Doctype html>
+<div class ="container">
+<div class="col-12 text-center">
+ 	<table class="table table-striped , table-bordered">
+ 	<thead>
+ 		<tr>
+ 			<th>Name of Course</th>
+ 			<th>Course Code</th>
+ 			<th>Started Year</th>
+ 			<th>Intake</th>
+ 			<th>Duration (In Years)</th>
+ 		</tr>
+ 	</thead>		
+ 		{% for obj in courses %}
+ 		<tr>
+ 			<td>{{obj.name}}</td>
+ 			<td>{{obj.course_code}}</td>
+ 			<td>{{obj.start_year}}</td>
+ 			<td>{{obj.intake}}</td>
+ 			<td>{{obj.duration}}</td>
+ 		</tr>
+ 			{% endfor %}
+ 	</table>
+ </div>	
+</div>	
+
+	
+
+{% endblock %}

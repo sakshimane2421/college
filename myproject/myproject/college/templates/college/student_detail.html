@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+ {% block maincontent %}
+
+<div class="container">
+	<div class="row">
+		<div class= "col-md-2">
+			<lable>Name</lable>
+		</div>
+		<div class="col-md-2">
+			{{object.name}}
+		</div><br>
+		<div class="col-md-2">
+			RollNO.
+		</div>
+		<div class="col-md-2">
+			{{object.roll_number}}
+		</div>
+	</div>
+</div>
+
+{% endblock %}

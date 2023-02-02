@@ -1,0 +1,396 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"listC"
+			],
+			[
+				"li",
+				"listC"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"l",
+				"listC"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"cn",
+				"cnumber"
+			],
+			[
+				"ce",
+				"cemail"
+			],
+			[
+				"U",
+				"Update"
+			],
+			[
+				"f",
+				"for\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"c",
+				"content\tAttr"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"mysql",
+				"mysql_fetch_array"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"mysql_f",
+				"mysql_fetch_assoc"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"fac",
+				"facallity_details"
+			],
+			[
+				"departme",
+				"department_id"
+			],
+			[
+				"department_",
+				"department_details"
+			],
+			[
+				"home",
+				"pills-home"
+			],
+			[
+				"lo",
+				"lower-latin\tlist-style-type"
+			],
+			[
+				"an",
+				"answer1"
+			],
+			[
+				"fra",
+				"fractions"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/practical/A1.py",
+		"/D/a1.py",
+		"/D/Ass_A1_set.py",
+		"/D/A3.py",
+		"/D/FDL/E3",
+		"/D/FDL/E2",
+		"/D/FDL/D1",
+		"/D/FDL/D2",
+		"/D/FDL/C1",
+		"/D/FDL/C2",
+		"/D/FDL/E1",
+		"/C/Users/HP/Downloads/Unconfirmed 905969.crdownload",
+		"/C/xampp/htdocs/rednectar/conn.php",
+		"/D/second.py",
+		"/C/xampp/htdocs/rednectar/admin/js/jquery.dcjqaccordion.2.7.js",
+		"/C/xampp/htdocs/rednectar/com/example/rednectar/index.html",
+		"/C/Users/HP/Downloads/user-registration.zip",
+		"/C/xampp/htdocs/tanvi/conn.php",
+		"/C/xampp/htdocs/tanvi/user.php",
+		"/C/xampp/htdocs/project/menu.html",
+		"/C/xampp/htdocs/project/base.html",
+		"/C/xampp/htdocs/project/update.php",
+		"/C/xampp/htdocs/project/conn.php",
+		"/C/xampp/htdocs/project/contact.php",
+		"/C/xampp/htdocs/project/sa.php",
+		"/C/xampp/htdocs/project/about1.html",
+		"/C/xampp/htdocs/add1.html",
+		"/C/xampp/htdocs/project/contact.html",
+		"/C/xampp/htdocs/project/delete.php",
+		"/C/xampp/htdocs/project/display.php",
+		"/C/xampp/htdocs/data/index.php",
+		"/C/xampp/htdocs/data/edit.php",
+		"/C/xampp/htdocs/data/db.php",
+		"/C/xampp/htdocs/project/connection.php",
+		"/C/xampp/htdocs/project/edit.php",
+		"/C/xampp/htdocs/project/updatedata.php",
+		"/C/xampp/htdocs/project/connect.php",
+		"/C/xampp/htdocs/project/view.php",
+		"/C/xampp/htdocs/project/view1.php",
+		"/C/xampp/htdocs/crud/css/style.css",
+		"/C/xampp/htdocs/crud/delete-inline.php",
+		"/C/xampp/htdocs/crud/index.php",
+		"/C/xampp/htdocs/crud/add.php",
+		"/C/xampp/htdocs/crud/delete.php",
+		"/C/xampp/htdocs/crud/update.php",
+		"/C/xampp/htdocs/project/try.html",
+		"/C/xampp/htdocs/add.php",
+		"/C/xampp/htdocs/new1.html",
+		"/C/xampp/htdocs/multiple.php",
+		"/C/xampp/htdocs/hi.php",
+		"/C/xampp/htdocs/multi.php",
+		"/C/xampp/htdocs/singal.php",
+		"/C/xampp/htdocs/constructor.php",
+		"/C/xampp/htdocs/new.php",
+		"/C/xampp/htdocs/red/register.php",
+		"/C/xampp/htdocs/red/form.html",
+		"/C/xampp/htdocs/red/conn.php",
+		"/C/xampp/htdocs/conn.php",
+		"/C/wamp64/www/demo2.php",
+		"/C/wamp64/apps/phpmyadmin5.0.2/config.inc.php",
+		"/C/wamp64/www/function5.php",
+		"/C/wamp64/www/function4.php",
+		"/C/wamp64/www/function2.php",
+		"/C/wamp64/www/function1.php",
+		"/C/wamp64/www/array3.php",
+		"/C/wamp64/www/array2.php",
+		"/C/wamp64/www/array1.php",
+		"/C/wamp64/www/print.php",
+		"/C/wamp64/www/add.php",
+		"/D/myproject/myproject/college/models.py",
+		"/D/myproject/myproject/college/templates/college/about.html",
+		"/D/myproject/myproject/templates/base.html",
+		"/D/myproject/myproject/college/templates/college/contact.html",
+		"/D/myproject/myproject/college/templates/college/home.html",
+		"/E/js curiculum.pdf",
+		"/D/myproject/myproject/college/views.py",
+		"/D/myproject/myproject/college/templates/college/student_detail.html",
+		"/D/myproject/myproject/myproject/urls.py",
+		"/D/myproject/myproject/college/admin.py",
+		"/D/myproject/myproject/myproject/settings.py",
+		"/D/myproject/myproject/college/templates/college/student_list.html",
+		"/D/myproject/myproject/college/templates/college/student_form.html",
+		"/D/myproject/myproject/college/forms.py",
+		"/D/newspaper.html",
+		"/C/Users/HP/Desktop/newsapaper.png",
+		"/C/Users/HP/Downloads/student_list.html",
+		"/C/Users/HP/Downloads/student_form.html",
+		"/C/Users/HP/Downloads/forms.py",
+		"/C/Users/HP/Downloads/views.py",
+		"/D/myproject/myproject/college/migrations/0003_department_laboratory.py",
+		"/D/myproject/myproject/college/ forms.py",
+		"/D/myproject/myproject/college/templates/college/departments.html",
+		"/D/myproject/myproject/college/migrations/0006_facillities.py",
+		"/D/myproject/myproject/college/templates/college/department_details.html",
+		"/D/myproject/myproject/college/static/myproject/images/11.jpg",
+		"/D/myproject/myproject/college/templates/college/courses.html",
+		"/D/myproject/myproject/college/templates/college/facillity.html",
+		"/D/myproject/myproject/college/templates/college/facillity_details.html",
+		"/D/myproject/myproject/templates/404.html",
+		"/D/myproject/myproject/db.sqlite3",
+		"/D/myproject/myproject/templates/500.html",
+		"/D/myproject/myproject/college/templates/college/Course.html",
+		"/D/myproject/myproject/college/first.javascript.html",
+		"/D/myproject/myproject/college/migrations/0002_course.py",
+		"/D/grwpt.html",
+		"/D/nav.html",
+		"/D/first.html",
+		"/D/nextpage.htmk",
+		"/D/1.html",
+		"/D/GT.html",
+		"/D/images/11.jpg",
+		"/D/myproject/myproject/college/tempate/college/home.html",
+		"/D/myproject/myproject/college/tempates/college/home.html",
+		"/D/project1/college/views.py",
+		"/D/project1/college/templates/about.html",
+		"/D/project1/college/templates/home.html",
+		"/D/project1/college/templates/course",
+		"/D/project1/templates/base.html",
+		"/D/project1/project1/settings.py",
+		"/D/project1/project1/urls.py",
+		"/D/project1/college/models.py",
+		"/D/project1/project1/url",
+		"/D/project1/college/templates/college/course.html",
+		"/D/project1/college/templates/college/home.html",
+		"/D/project1/college/templates/college/ about.html",
+		"/D/project1/college/admin.py",
+		"/D/project1/college/__init__.py",
+		"/D/project1/college/templates/college/about"
+	],
+	"find":
+	{
+		"height": 42.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 44.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wsgi.cpython-38.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
